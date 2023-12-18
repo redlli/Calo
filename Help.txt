@@ -1,0 +1,13 @@
+
+=================================================================
+                           Calo
+                Advance Calculater for Daily Life
+=================================================================
+            This is official documention of the Calo
+            
+    1)Campero     -Campero is a tool which lets a calculate the price of the iteam based on cantite              
+    2)Simpalo     -Its a simple continues Calculater to calculate 
+    3)Tripo       -Tripo To manege Trip expence with it 
+    4)New         -Adding soon
+    5)New         -Adding soon
+================================================================
